@@ -20,4 +20,4 @@ END //
 DELIMITER ;
 
 # Executando a função novoAluno
-SELECT novoAluno(2, '1989-06-12', 60, 9.00, 'Adriana Lins', 'adrianalins@gmail.com') AS 'Novo(a) Aluno(a)';
+SELECT novoAluno(3, '1989-06-12', 60, 9.00, 'Rebeka Alves', 'rebekaalves@gmail.com') AS 'Novo(a) Aluno(a)';
